@@ -1,0 +1,23 @@
+/* ==========================================================================
+*  Project:   Hackenit Theme Styles
+*  Copyright: ©2011 My Company, Inc.
+*  ==========================================================================
+*/
+
+.base-view{
+	background: rgb(203, 222, 233);
+	    background-image: -webkit-gradient(radial, center bottom, 0, center bottom, 800, from(gray), to(#262629));
+	    background-image: -moz-radial-gradient(bottom, circle, gray 0px, #262629 800px); 
+}
+
+.main-image{
+	
+}
+
+.call-label{
+	text-align: center;
+}
+
+.name-label{
+	text-align: center;
+}
